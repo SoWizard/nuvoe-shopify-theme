@@ -1,0 +1,1 @@
+{"parent":"product.bottle.json","context":{"market":"australia"},"sections":{"main":{"settings":{},"blocks":{"f71d29c7-1524-4b50-a799-ca3fd1b20d90":{"settings":{"content":"{{ product.metafields.custom.policies_summary.value.content_au_market | metafield_tag }}"}}}}}}
